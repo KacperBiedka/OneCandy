@@ -1,13 +1,33 @@
 {
-  "name": "one-candy",
-  "displayName": "One Candy",
-  "description": "",
+  "name": "one-candy-dark",
+  "displayName": "One Candy Dark",
+  "description": "My custom theme take based around the One Dark Pro with pink accents and contrasting neon colors",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.52.0"
   },
+  "galleryBanner": {
+    "color": "#df9fb8",
+    "theme": "dark"
+  },
+  "icon": "images/candy.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "One Candy",
+    "One Candy Dark",
+    "OneCandy",
+    "pink",
+    "candy",
+    "Darl Theme",
+    "One Dark Pink",
+    "Neon",
+    "color theme",
+    "Neon theme",
+    "Candy theme",
+    "Ocean theme",
+    "Tokyo theme"
   ],
   "contributes": {
     "themes": [
