@@ -10,6 +10,13 @@
   "engines": {
     "vscode": "^1.52.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KacperBiedka/OneCandy"
+  },
+  "bugs": {
+    "url": "https://github.com/KacperBiedka/OneCandy/issues"
+  },
   "galleryBanner": {
     "color": "#df9fb8",
     "theme": "dark"
@@ -38,7 +45,7 @@
       {
         "label": "One Candy",
         "uiTheme": "vs-dark",
-        "path": "./themes/test theme-color-theme.json"
+        "path": "./themes/One Candy-color-theme.json"
       }
     ]
   }
