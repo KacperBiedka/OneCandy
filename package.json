@@ -3,7 +3,7 @@
   "displayName": "One Candy Dark",
   "description": "My custom theme take based around the One Dark Pro with pink accents and contrasting neon colors",
   "version": "0.0.1",
-  "publisher": "Kacper Biedka",
+  "publisher": "KacperBiedka",
   "author": {
     "name": "Kacper Biedka"
   },
@@ -18,7 +18,7 @@
     "url": "https://github.com/KacperBiedka/OneCandy/issues"
   },
   "galleryBanner": {
-    "color": "#df9fb8",
+    "color": "#FF95D5",
     "theme": "dark"
   },
   "icon": "images/candy.png",

@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "One Candy Dark" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## Releases:
+- ### 0.0.1 - Initial release, basic color scheme and ReadMe examples
+- ### 0.0.2 - Contained Github Repo info in the ReadMe and updated banner color 
