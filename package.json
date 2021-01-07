@@ -18,7 +18,7 @@
     "url": "https://github.com/KacperBiedka/OneCandy/issues"
   },
   "galleryBanner": {
-    "color": "#FF95D5",
+    "color": "#2d323b",
     "theme": "dark"
   },
   "icon": "images/candy.png",
@@ -28,17 +28,16 @@
   "keywords": [
     "One Candy",
     "One Candy Dark",
+    "One Dark",
+    "One",
     "OneCandy",
     "pink",
     "candy",
-    "Darl Theme",
+    "color-theme",
+    "Dark Theme",
     "One Dark Pink",
     "Neon",
-    "color theme",
-    "Neon theme",
-    "Candy theme",
-    "Ocean theme",
-    "Tokyo theme"
+    "color theme"
   ],
   "contributes": {
     "themes": [
