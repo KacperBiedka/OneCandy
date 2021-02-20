@@ -3,7 +3,6 @@
 <br />
 
 ## Lively composition lookin fresh while still keeping it mellow ✨
----
 <br />
 
 ## `Typescript`
@@ -16,6 +15,5 @@
 ## `Scss`
 ![Scss Demo](https://i.imgur.com/5M2ILeu.png)
 
----
 
 ## Feel free to contribute to this project by adding a PR in the One Candy Dark [Repository](https://github.com/KacperBiedka/OneCandy) 
